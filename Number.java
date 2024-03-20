@@ -1,5 +1,5 @@
-import java.util.Scanner;
-
+// Print all even numbers till n
+import java.util.*;
 public class Number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
